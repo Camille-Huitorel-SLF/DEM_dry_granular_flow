@@ -1,8 +1,16 @@
-<h1>DEM_dry_granular_flow</h1>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11.9](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
 Scripts and notebooks for extracting and post-processing Discrete Element Method (DEM) simulations data from **Rocky 2023 R2** to investigate the influence of porous erodible bed parameters on the mobility and entrainment of granular flow. Developed as part of Camille Huitorel’s PhD research at SLF Davos and ETH Zurich.
 
-![Snapshots](media/default_4snapshots_houdini.png.svg)
+This repository contains the scripts used in:
+
+<!-- > C. Huitorel et al., "Granular flow over highly porous erodible beds: 3D DEM modelling of
+bed mobilisation and entrainment," *Journal Name*, vol. X, pp. X–X, 2026. DOI: [10.XXXX/XXXXX](https://doi.org/10.XXXX/XXXXX) -->
+
+
+![Reference simulation snapshots](media/default_4snapshots_houdini.png.svg)
 
 <h1>Table of Contents</h1>
 
