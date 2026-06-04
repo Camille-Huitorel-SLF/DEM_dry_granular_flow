@@ -1,0 +1,1 @@
+"""Scripts and notebooks for extracting and post-processing DEM simulation data (Rocky) to investigate the influence of porous erodible bed parameters on the mobility and entrainment of steady granular flows. Developed as part of Camille Huitorel’s PhD research at SLF Davos and ETH Zurich."""

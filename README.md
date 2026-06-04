@@ -1,6 +1,8 @@
-<h1>MyProject</h1>
+<h1>DEM_dry_granular_flow</h1>
 
-project_description
+Scripts and notebooks for extracting and post-processing Discrete Element Method (DEM) simulations data from **Rocky 2023 R2** to investigate the influence of porous erodible bed parameters on the mobility and entrainment of granular flow. Developed as part of Camille Huitorel’s PhD research at SLF Davos and ETH Zurich.
+
+![Snapshots](media/default_4snapshots_houdini.png.svg)
 
 <h1>Table of Contents</h1>
 
@@ -21,7 +23,7 @@ venv/Scripts/activate
 **2. Install the package using pip in your terminal:**
 
 ```bash
-pip install git+project_url.git
+pip install git+https://github.com/Camille-Huitorel-SLF/DEM_dry_granular_flow.git.git
 ```
 
 # Constribute

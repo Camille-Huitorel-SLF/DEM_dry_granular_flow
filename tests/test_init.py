@@ -1,5 +1,5 @@
-import myproject
+import DEM_dry_granular_flow
 
 
 def test_package_init():
-    print(myproject.__doc__)
+    print(DEM_dry_granular_flow.__doc__)

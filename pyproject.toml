@@ -2,8 +2,8 @@
 requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
 
 [project]
-name = "myproject"
-description = "project_description"
+name = "DEM_dry_granular_flow"
+description = "Scripts and notebooks for extracting and post-processing DEM simulation data (Rocky) to investigate the influence of porous erodible bed parameters on the mobility and entrainment of steady granular flows. Developed as part of Camille Huitorel’s PhD research at SLF Davos and ETH Zurich."
 
 dynamic = ["version", "readme", "dependencies"]
 requires-python = ">=3.7"
@@ -20,7 +20,7 @@ keywords = [
 dev = ["pytest", "pytest-cov", "pytest-mock", "pytest-check", "pytest-xdist", "pre-commit", "ruff"]
 
 [project.urls]
-Source = "project_url"
+Source = "https://github.com/Camille-Huitorel-SLF/DEM_dry_granular_flow.git"
 
 [tool.setuptools]
 license-files = ['LICEN[CS]E*', 'COPYING*', 'NOTICE*', 'AUTHORS*']
