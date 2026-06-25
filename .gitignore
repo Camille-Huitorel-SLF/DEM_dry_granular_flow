@@ -137,4 +137,5 @@ dmypy.json
 .DS_store
 
 #Data
-
+simulations/
+paths/
